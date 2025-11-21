@@ -4,6 +4,9 @@
             color: #333;
             margin: 0;
             padding: 0;
+            background-image: url(kep/alap\ cat.jpg);
+            background-repeat: no-repeat;
+            background-size:cover;
         }
         header {
             background-color: #D2B48E;
