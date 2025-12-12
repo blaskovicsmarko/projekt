@@ -35,3 +35,9 @@
             width: 100%;
             bottom: 0;
         }
+        .itallapimg{
+            border: 3px black solid;
+            float: right;
+            width: 600px;
+            height: 450px;
+        }
