@@ -36,9 +36,16 @@
             width: 100%;
             bottom: 0;
         }
-        .itallapimg{
+        #itallapimg{
             border: 3px black solid;
             float: right;
             width: 600px;
             height: 450px;
         }
+        #galimg
+        { 
+            border: #d2ad8e 3px solid;
+            padding: 10px ;
+           
+        }
+        
