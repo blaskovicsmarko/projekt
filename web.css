@@ -39,8 +39,9 @@
         #itallapimg{
             border: 3px black solid;
             float: right;
-            width: 600px;
-            height: 450px;
+            width: 100%;
+            max-width: 500px;
+            height: auto;
         }
         #galimg
         { 
